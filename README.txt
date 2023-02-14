@@ -1,4 +1,4 @@
-                                                        SynapseX cracked virus UniqueGeese
+                                    SynapseX cracked virus UniqueGeese
 
 	Found on hacked youtube channel UniqueGeese in this download link. The video description was the following: Hi! There is SYNAPSE X CRACK! 
 
@@ -8,11 +8,11 @@ Virus information:
 	It also sent the user’s information to discord and telegram, the telegram’s location was Amsterdam.
 	The following ips received TCP requests from the virus:
   
-                                                                  149.154.167.99
-                                                                  104.98.237.123
-                                                                  195.201.44.125
-                                                                  162.159.129.233
-                                                                  104.21.65.227
+                                               149.154.167.99
+                                               104.98.237.123
+                                               195.201.44.125
+                                               162.159.129.233
+                                               104.21.65.227
 
 	They were all forwarded either Discord, Telegram, or Akamai Technologies, which is a company that provides hosting, analytics and malware protection.
 	Possible reasons investigated by ChatGPT:
