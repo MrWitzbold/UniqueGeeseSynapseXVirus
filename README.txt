@@ -7,6 +7,7 @@ Virus information:
 	It came with several useless files, and an instruction to disable Windows Defender. It was easily decompiled with ScyllaHide PE unpacker, because it created an unprotected thread that could be unpacked. It had the following virus types: Vidar, ArkeiStealer, Invisimole, Mimikatz, and TeamSpy. It used several different crypto wallets to mine crypto.
 	It also sent the user’s information to discord and telegram, the telegram’s location was Amsterdam.
 	The following ips received TCP requests from the virus:
+	
 149.154.167.99
 104.98.237.123
 195.201.44.125
